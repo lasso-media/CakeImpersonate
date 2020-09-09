@@ -15,7 +15,7 @@ Always double check that an attacker cannot "spoof" other users in the controlle
 ***This Plugin does circumvent default authentication mechanisms***
 
 ## Requirement
-1. CakePHP 3.7 and above.
+1. CakePHP 4.x
 
 ## Installation/Upgrading
 `
