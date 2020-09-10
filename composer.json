@@ -1,6 +1,6 @@
 {
-    "name": "jomweb/cake-impersonate",
-    "description": "Impersonate plugin for CakePHP 3",
+    "name": "lasso-media/cake-impersonate",
+    "description": "Impersonate plugin for CakePHP 4",
     "type": "cakephp-plugin",
     "license": "MIT",
     "require": {
