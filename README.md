@@ -1,10 +1,4 @@
-# CakeImpersonate Plugin
-[![Build Status](https://travis-ci.org/jomweb/CakeImpersonate.svg?branch=master)](https://travis-ci.org/jomweb/CakeImpersonate)
-[![Coverage Status](https://codecov.io/gh/jomweb/CakeImpersonate/branch/master/graph/badge.svg)](https://codecov.io/gh/jomweb/CakeImpersonate)
-[![Latest Stable Version](https://poser.pugx.org/jomweb/cake-impersonate/v/stable.svg)](https://packagist.org/packages/jomweb/cake-impersonate)
-[![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D%205.6-8892BF.svg)](https://php.net/)
-[![License](https://poser.pugx.org/jomweb/cake-impersonate/license.svg)](https://packagist.org/packages/jomweb/cake-impersonate)
-[![Total Downloads](https://poser.pugx.org/jomweb/cake-impersonate/d/total.svg)](https://packagist.org/packages/jomweb/cake-impersonate)
+# Cake Impersonate Plugin
 
 # Impersonate Component
 A component that stores the current authentication session and creates new session for impersonating Users. User can revert back to original authentication sessions without the need to re-login.
@@ -19,7 +13,7 @@ Always double check that an attacker cannot "spoof" other users in the controlle
 
 ## Installation/Upgrading
 `
-composer require jomweb/cake-impersonate:"^3.0"
+composer require lasso-media/cake-impersonate:"^3.0"
 `
 
 ### Plugin Load
